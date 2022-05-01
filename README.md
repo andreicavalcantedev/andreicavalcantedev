@@ -1,4 +1,4 @@
-### Olá, meu nome é Andrei Cavalcante, tenho 16 anos e comecei no universo <br/>da programação em fevereiro de 2022 🌌
+### Olá, meu nome é Andrei Cavalcante, tenho 16 anos e comecei <br/> no universo da programação em fevereiro de 2022 🌌
 ### Bem vindo(a) ao meu perfil do GitHub 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/csilva.andrei/)
