@@ -8,6 +8,7 @@ Bem vindo(a) ao meu perfil do GitHub 🚀
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCM_nWpbsmRLD2E5t8qOIFLA/featured)
 
 ![Andrei GitHub stats](https://github-readme-stats.vercel.app/api?username=andreicavalcantedev&theme=dark&show_icons=true)
+![Andrei GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={andreicavalcantedev})
 
 ## Frameworks e linguagens que uso no dia a dia
 
