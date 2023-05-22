@@ -1,9 +1,10 @@
 ### <h1>Olá, meu nome é Andrei Cavalcante😄
-Eu tenho 16 anos, sou apaixonado por tecnologia e comecei no universo da programação em fevereiro de 2022. 🌌<br/>
+Eu tenho 17 anos, sou apaixonado por tecnologia e comecei no universo da programação em fevereiro de 2022. 🌌<br/>
     
 Bem vindo(a) ao meu perfil do GitHub 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/csilva.andrei/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreicavalcante/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreicavalcantedev)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCM_nWpbsmRLD2E5t8qOIFLA/featured)
 
