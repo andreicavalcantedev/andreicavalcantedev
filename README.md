@@ -10,7 +10,7 @@ Welcome to my GitHub Profile 🚀
 
 ![Andrei GitHub stats](https://github-readme-stats.vercel.app/api?username=andreicavalcantedev&theme=dark&show_icons=true)
 
-## Frameworks and Languages that i use in my daily
+## Frameworks and Programming Languages
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
