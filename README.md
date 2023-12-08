@@ -1,5 +1,5 @@
 ### <h1>Hello!, my name is Andrei Cavalcante😄
-I'm 17, I am passionate about everthing in technology and started in the world of programming in February 2022. 🌌<br/>
+I'm 18, I am passionate about everthing in technology and started in the world of programming in February 2022. 🌌<br/>
     
 Welcome to my GitHub Profile 🚀
 
