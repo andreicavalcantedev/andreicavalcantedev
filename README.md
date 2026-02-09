@@ -1,8 +1,6 @@
 ### <h1>Hi! My name is Andrei Cavalcante 😄
-I'm 20, I am passionate about everything about technology, and started in the world of programming in 2022. 🌌<br/>
-
 I've been working at BRQ Digital Solutions since 2022, where I started as an intern to enter the programming field.
-I'm working as a Software Engineer in the same enterprise.
+I'm working as a Software Engineer.
     
 Welcome to my GitHub Profile 🚀
 
